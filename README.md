@@ -3,8 +3,7 @@
 This project is crypto tracker that you can view current price of crypto in market you cant see it in different currency.
 you can add your favorite crypto to your watchlist and you can see it in your watchlist.
 
- <img src="/img/Screenshot (66).png" style=" width:100% ; height:100% "  >
-
+ 
  <img src="/img/Screenshot (59).png" style=" width:100% ; height:100% "  >
 
 ## Note
