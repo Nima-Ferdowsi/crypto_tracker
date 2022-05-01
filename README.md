@@ -5,6 +5,8 @@ you can add your favorite crypto to your watchlist and you can see it in your wa
 
  
  <img src="/img/Screenshot (59).png" style=" width:100% ; height:100% "  >
+  <img src="/img/Screenshot (121).png" style=" width:100% ; height:100% "  >
+
 
 ## Note
 
